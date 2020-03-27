@@ -9,6 +9,7 @@ namespace GameTOP
                 new Jogador1("Ronaldo"),
                 new Jogador2());
             jogo.IniciarJogo();
+            //Teste
         }
     }
 
